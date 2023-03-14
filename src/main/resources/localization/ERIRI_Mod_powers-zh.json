@@ -1,0 +1,124 @@
+{
+  "Double Use": {
+    "NAME": "好事成双",
+    "DESCRIPTIONS": [
+      "在这个回合，你打出的下一张牌会打出两次。",
+      "在这个回合，你打出的下",
+      "张牌 会打出两次。"
+    ]
+  },
+  "Cute": {
+    "NAME": "可爱捏",
+    "DESCRIPTIONS": [
+      "在你的回合开始时获得 ",
+      " 。"
+    ]
+  },
+  "SketchingPower": {
+    "NAME": "写生",
+    "DESCRIPTIONS": [
+      "使用 #b%1$s 张攻击牌后，获得 #b%2$s 点 活力 与 #b%3$s 层 格挡 。"
+    ]
+  },
+  "CopyPower": {
+    "NAME": "临摹",
+    "DESCRIPTIONS": [
+      "使用 #b%1$s 张技能牌后，受到 #b%2$s 点伤害。"
+    ]
+  },
+  "ViewingPower": {
+    "NAME": "取景",
+    "DESCRIPTIONS": [
+      "使用 #b%1$s 张牌后，获得 [E] [E] 。",
+      "使用 #b%1$s 张牌后，获得 [E] [E] [E] 。"
+    ]
+  },
+  "HcomicPower": {
+    "NAME": "H漫",
+    "DESCRIPTIONS": [
+      "每抽1张牌，对所有敌人造成 #b%1$s 点伤害。剩余 #b%2$s 次。"
+    ]
+  },
+  "ComicBookPower": {
+    "NAME": "连环画",
+    "DESCRIPTIONS": [
+      "每使用1张技能牌，获得 #b%1$s 点 格挡 。剩余 #b%2$s 次。"
+    ]
+  },
+  "FreeDrawPower": {
+    "NAME": "随便画画",
+    "DESCRIPTIONS": [
+      "使用 #b%1$s 张牌后，获得 [E] 。剩余 #b%2$s 次。 完结 ：在你的回合开始时获得 [E] 。"
+    ]
+  },
+  "PatiencePower": {
+    "NAME": "忍辱负重",
+    "DESCRIPTIONS": [
+      "每受到一次 #y攻击 ，获得 #b",
+      " 点 活力 。"
+    ]
+  },
+  "LivePointingPower": {
+    "NAME": "现场指点",
+    "DESCRIPTIONS": [
+      "每当你获得 #y格挡 时，对一名随机敌人造成 #b%1$s 点攻击伤害，剩余 #b%2$s 次。"
+    ]
+  },
+  "ConfidencePower": {
+    "NAME": "自信展现",
+    "DESCRIPTIONS": [
+      "在你的回合开始时获得 #b",
+      " 点 #y活力 。"
+    ]
+  },
+  "PaintingDemonPower": {
+    "NAME": "画痴形态",
+    "DESCRIPTIONS": [
+      "在你的回合开始时，在你的手牌中加入 #b",
+      " 张 #y复写 。",
+      " 张 #y复写 。"
+    ]
+  },
+  "GGPower": {
+    "NAME": "寄！",
+    "DESCRIPTIONS": [
+      "在你的回合开始时，得到 #b",
+      " 张 #y心之壁加固 。",
+      " 张 #y心之壁加固 。"
+    ]
+  },
+  "CoolPower": {
+    "NAME": "清凉形态",
+    "DESCRIPTIONS": [
+      "回合结束时，丢弃2张牌， #y保留 其余手牌。",
+      "你的回合结束时，丢弃2张牌， #y保留 其余手牌。"
+    ]
+  },
+  "BurstLiverPower": {
+    "NAME": "爆肝",
+    "DESCRIPTIONS": [
+      "使用 #b%1$s 张攻击牌后，在本回合保留你的手牌。"
+    ]
+  },
+  "FoodiePower": {
+    "NAME": "吃货形态",
+    "DESCRIPTIONS": [
+      "回合开始时，若手牌数不小于2，抽取 #b",
+      " 张牌。"
+    ]
+  },
+  "YouArePower": {
+    "NAME": "日向夏帆的力量",
+    "DESCRIPTIONS": [
+      "在你的回合开始时，得到 #b",
+      " 张 #y巨乳 。",
+      " 张 #y巨乳 。"
+    ]
+  },
+  "SkillfulPaintingPower": {
+    "NAME": "妙手丹青",
+    "DESCRIPTIONS": [
+      "使用 #b%1$s 张牌后，抽取一张牌。剩余 #b%2$s 次。"
+    ]
+  }
+}

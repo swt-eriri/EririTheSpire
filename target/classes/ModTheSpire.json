@@ -1,0 +1,10 @@
+{
+  "modid": "ERIRI_Demo",
+  "name": "ERIRI",
+  "author_list": ["一口英梨汁"],
+  "description": "英梨梨生日快乐！",
+  "sts_version": "8-3-2023",
+  "mts_version": "3.23.0",
+  "version": "0.9.1",
+  "dependencies": ["basemod","stslib"]
+}

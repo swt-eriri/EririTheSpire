@@ -1,0 +1,48 @@
+{
+  "Twintails": {
+    "NAME": "双马尾",
+    "FLAVOR": "世界上最可爱的发型。",
+    "DESCRIPTIONS": [
+      "若你在本回合打出的牌为偶数张，则在你的下个回合开始时额外抽 #b1 张牌"
+    ]
+  },
+  "HairBand": {
+    "NAME": "发带",
+    "FLAVOR": "没有可爱发带的双马尾没有灵魂。",
+    "DESCRIPTIONS": [
+      "名字中有“双马尾”的卡牌造成 #b",
+      " 点额外伤害。"
+    ]
+  },
+  "ContactLenses": {
+    "NAME": "隐形眼镜",
+    "FLAVOR": "出门隐藏身份必备。",
+    "DESCRIPTIONS": [
+      "如果你在回合结束时没有 #y活力 ，获得 #b",
+      " 点 #y活力 。"
+    ]
+  },
+  "DraftingPaper": {
+    "NAME": "草稿纸",
+    "FLAVOR": "画的不好就丢掉。",
+    "DESCRIPTIONS": [
+      "在每场战斗开始时，从抽牌堆中选择 #b",
+      " 张牌丢至弃牌堆。"
+    ]
+  },
+  "PaintingCollection": {
+    "NAME": "深崎暮人的画集",
+    "FLAVOR": "不会有人没买吧？（还真没买）",
+    "DESCRIPTIONS": [
+      "手牌上限增加 #b",
+      " 张。"
+    ]
+  },
+  "BlondeHairTwintails": {
+    "NAME": "金发双马尾",
+    "FLAVOR": "可爱的同时拥有一股神秘力量。",
+    "DESCRIPTIONS": [
+      "替换 #r双马尾 。若你在本回合打出的牌为偶数张，则在你的下个回合开始时额外抽 #b2 张牌"
+    ]
+  }
+}

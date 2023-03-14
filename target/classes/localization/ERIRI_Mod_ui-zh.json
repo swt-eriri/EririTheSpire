@@ -1,0 +1,26 @@
+{
+  "ChangeProfessionAction": {
+    "TEXT": [
+      "丢弃"
+    ]
+  },
+  "DiscardTheCaseAction": {
+    "TEXT": [
+      "选择一张牌丢弃至弃牌堆。",
+      "选择 ",
+      " 张牌丢弃至弃牌堆。"
+    ]
+  },
+  "ExhaustDiscardPileCardAction": {
+    "TEXT": [
+      "选择一张牌消耗。",
+      "选择 ",
+      " 张牌消耗。"
+    ]
+  },
+  "TopArtAction": {
+    "TEXT": [
+      "使其耗能变为0。"
+    ]
+  }
+}
